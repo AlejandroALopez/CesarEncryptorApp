@@ -1,6 +1,6 @@
 To launch the program:
 
-1. Download the files and make sure the programs and words.txt are in the same folder
+1. Download the files (Go to the green button and press Download ZIP) and make sure the programs and words.txt are in the same folder (Extract the folder from the ZIP into a desired location).
 
 2. Install the Latest Version of Python, if you dont have it. I recommend installing Anaconda.
 
